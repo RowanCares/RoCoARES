@@ -1,6 +1,6 @@
 ---
 title: "Net Listing"
-date: 2024-08-08
+date: 2026-08-05
 draft: false
 ---
 
@@ -8,11 +8,12 @@ This page provides a brief listing of information about NTS, ARES and independen
 
 ## Rowan ARES Training Net
 
-**Wednesday 2030 hrs local**
+**Wednesday 2000 hrs local**
 
 **145.410** Neg offset **136.5** tone
 
-Tim Foster K4OIB, Net Manager
+<!--Tim Foster K4OIB, Net Manager-->
+Dave Jackman N7WOY, *Temporary* Net Manager
 
 *The courtesy tone changes when the ARES net is activated!!*
 
