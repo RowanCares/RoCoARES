@@ -1,0 +1,43 @@
+# Hugo build output
+/public/
+/resources/
+/.hugo_build.lock
+
+# Hugo module cache (if you ever use modules)
+/hugo_cache/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Local environment / secrets (just in case)
+.env
+.env.*
+*.local
+
+# Node (if you later add PostCSS, Tailwind, etc.)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Temporary files
+*.tmp
+*.temp
+*.log
