@@ -25,10 +25,7 @@ jobs:
           fetch-depth: 0
 
       - name: Update submodules
-        run: |
-          git submodule update --init --recursive
-          ls -la themes/
-          ls -la themes/ananke/ || echo "Theme folder is empty!"
+        run: git submodule update --init --recursive
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -38,6 +35,12 @@ jobs:
 
       - name: Build
         run: hugo --minify
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
   deploy:
     environment:
       name: github-pages
