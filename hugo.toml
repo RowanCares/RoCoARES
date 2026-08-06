@@ -1,5 +1,7 @@
 #baseURL = 'https://rowanCares.org/rowancares/'
-baseURL = 'https://rowanCares.org/RoCoARES/'
+#baseURL = 'https://rowanCares.org/RoCoARES/'
+baseURL = 'https://rowanCares.org/'
+
 locale = 'en-us'
 title = 'Rowan County ARES'
 theme = 'ananke'   # Change this to whatever theme you choose
