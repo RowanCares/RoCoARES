@@ -1,4 +1,4 @@
-baseURL = 'https://yourusername.github.io/rowancares/'
+baseURL = 'https://rowanCares.org/rowancares/'
 languageCode = 'en-us'
 title = 'Rowan County ARES'
 theme = 'ananke'   # Change this to whatever theme you choose
