@@ -6,14 +6,16 @@ draft: false
 
 ## Weekly Net
 
-Runs on **Wednesday nights at 2030 hours** on the N4UH Repeater **145.410** with Neg Offset and PL tone of **136.5**. Check-ins are encouraged.
+Runs on **Wednesday nights at 2000 hours** on the N4UH Repeater **145.410** with Neg Offset and PL tone of **136.5**. Check-ins are encouraged.
 
 ## Fox Hunt
 
-<!-- Held on or about the **4th Saturday of each month** in Rowan County, NC, by the Rowan Amateur Radio Society.
+<!-- 
+Held on or about the **4th Saturday of each month** in Rowan County, NC, by the Rowan Amateur Radio Society.
 
 - Participants meet at Checkered Flag Restaurant in Salisbury at **7:30 AM** for breakfast.
-- Then at Salisbury Mall parking lot around **9:00 AM** to begin the hunt. -->
+- Then at Salisbury Mall parking lot around **9:00 AM** to begin the hunt. 
+-->
 
 ### Foxhunting Description
 
