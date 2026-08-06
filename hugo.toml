@@ -1,0 +1,55 @@
+baseURL = 'https://yourusername.github.io/rowancares/'
+languageCode = 'en-us'
+title = 'Rowan County ARES'
+theme = 'ananke'   # Change this to whatever theme you choose
+
+# Optional: enable nicer URLs
+uglyURLs = false
+paginate = 10
+
+[params]
+  description = 'Rowan County Amateur Radio Emergency Service – Radio Emergency Communications works… when all else fails'
+  author = 'Rowan County ARES'
+  # Uncomment and set if you want a custom logo in the theme
+  # logo = '/images/ares-logo.png'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 2
+
+  [[menu.main]]
+    name = 'Net Script'
+    url = '/net-script/'
+    weight = 3
+
+  [[menu.main]]
+    name = 'Net Listing'
+    url = '/net-listing/'
+    weight = 4
+
+  [[menu.main]]
+    name = 'Job Descriptions'
+    url = '/job-descriptions/'
+    weight = 5
+
+  [[menu.main]]
+    name = 'Training'
+    url = '/training/'
+    weight = 6
+
+  [[menu.main]]
+    name = 'Upcoming Events'
+    url = '/upcoming-events/'
+    weight = 7
+
+# Optional: taxonomies if you expand later
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
