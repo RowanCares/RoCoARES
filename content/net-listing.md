@@ -15,7 +15,9 @@ This page provides a brief listing of information about NTS, ARES and independen
 * Tim Foster K4OIB, Net Manager
 * Dave Jackman, *Temporary* Net Control
 
+<!--
 *The courtesy tone changes when the ARES net is activated!!*
+-->
 
 ## Section-Level Nets – National Traffic System
 
