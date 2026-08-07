@@ -12,8 +12,8 @@ This page provides a brief listing of information about NTS, ARES and independen
 
 **145.410** Neg offset **136.5** tone
 
-<!--Tim Foster K4OIB, Net Manager-->
-Dave Jackman N7WOY, *Temporary* Net Manager
+* Tim Foster K4OIB, Net Manager
+* Dave Jackman, *Temporary* Net Control
 
 *The courtesy tone changes when the ARES net is activated!!*
 
