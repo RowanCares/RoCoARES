@@ -25,13 +25,17 @@ Rowan County ARES can be contacted as follows:
 
 Frequently monitoring one of the repeaters below:
 <!-- this div will help the table to work better on mobile screens -->
+
 <div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+  
 | Freq. (MHz) | Offset | Tone | Description | Location |
 | ----------- | ------ | ---- | ----------- | -------- |
 | [145.410](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=72) | -0.6 MHz | 136.5 Hz | **N4UH** Primary | China Grove, NC |
 | [443.250](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=330) | 5 MHz | 136.5 Hz<br>(TSQL) | **N4UH** Secondary | China Grove, NC |
-| [146.655](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=78) | -0.6 MHz | none | **K4CEB** | Concord, NC |
--->
+| [146.655](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=78) | -0.6 MHz | none | **K4CEB** | Concord, NC |  
+
+</div>
+
 <!-- | [146.730](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=78) | -0.6 MHz | 94.8 Hz | KU4PT tertiary<br>no backup power| Barber, NC | -->
 
 
