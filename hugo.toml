@@ -15,6 +15,7 @@ paginate = 10
   author = 'Rowan County ARES'
   # Uncomment and set if you want a custom logo in the theme
   # logo = '/images/ares-logo.png'
+  customCSS = ["css/custom.css"]
 
 [menu]
   [[menu.main]]
