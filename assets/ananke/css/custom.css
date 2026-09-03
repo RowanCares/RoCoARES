@@ -1,21 +1,37 @@
-/* Table Styling Fix for Ananke Theme */
+/* Modern Clean Styling for Hugo Ananke Tables */
 table {
     width: 100%;
+    max-width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
-    font-family: inherit;
+    margin: 2rem 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: left;
 }
+
 th {
-    background-color: #2a2a2a; /* Dark background for headers */
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    padding: 12px 16px;
+    background-color: #111111; /* Matches Ananke's signature dark tones */
     color: #ffffff;
-    font-weight: bold;
-    padding: 12px 8px;
-    border: 1px solid #ddd;
+    border-bottom: 2px solid #222222;
 }
+
 td {
-    padding: 10px 8px;
-    border: 1px solid #ddd;
+    padding: 12px 16px;
+    border-bottom: 1px solid #e5e7eb; /* Soft border line instead of heavy grid */
+    color: #333333;
 }
-tr:nth-child(even) { 
-    background-color: #f9f9f9; /* Zebra striping */
+
+/* Subtle row shading for readability */
+tr:nth-child(even) {
+    background-color: #f9fafb; 
+}
+
+/* Highlights the row when your user hovers over it */
+tr:hover {
+    background-color: #f3f4f6;
 }
