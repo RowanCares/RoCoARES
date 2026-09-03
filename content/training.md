@@ -6,7 +6,7 @@ draft: false
 
 ## Updated Information from NC ARES
 
-[http://www.ncarrl.org/ares/ncep.pdf](http://www.ncarrl.org/ares/ncep.pdf)
+[Amateur Radio Emergency Service, North Carolina Section, Emergency Plan](http://www.ncarrl.org/ares/ncep.pdf)
 
 **Obtain all the training you can get *before* the emergency!**
 
