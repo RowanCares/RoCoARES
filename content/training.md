@@ -27,8 +27,8 @@ This training is RECOMMENDED minimum emergency communications training for any o
 
 ## FEMA Independent Study Program
 
-- [http://training.fema.gov/EMIWeb/IS/](http://training.fema.gov/EMIWeb/IS/)
-- [http://training.fema.gov/EMIWeb/IS/crslist.asp](http://training.fema.gov/EMIWeb/IS/crslist.asp)
+<!-- broken --> <!-- - [http://training.fema.gov/EMIWeb/IS/](http://training.fema.gov/EMIWeb/IS/)-->
+- [Independent Study Course List](http://training.fema.gov/EMIWeb/IS/crslist.asp)
 
 Recommended for all, **REQUIRED** for *anyone* wishing to serve in an EOC by NC Law  
 (courses 100, 200, 700, 800):
