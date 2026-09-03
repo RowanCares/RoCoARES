@@ -6,17 +6,18 @@ summary: ARES Purpose, location, Mission Statement, status, and membership
 description: This page helps the viewer to understand what this emergency organization is about, its area of coverage, and basic membership.
 ---
 
-## Purpose of ARES
+# Purpose of ARES
 
 [Amateur Radio Emergency Service](https://www.arrl.org/ares), which has developed since 1935, is a part of the [Amateur Radio Relay League (ARRL)](https://www.arrl.org/) Field Organization.
 
 Part 97 of the FCC’s RULES and REGULATION, which covers the Amateur Radio Service, states under “Basis and Purpose” in 97.1 (a) that: “Recognition and enhancement of the value of the amateur service to the public as a voluntary non-commercial communication service, particularly with respect to providing emergency communications.”
 
+## ARES History
 Amateurs have been involved with Public-service communications, emergency communications, since 1913. In the early days the involvement was unprepared and without any coordination. As stated in the PUBLIC SERVICE COMMUNICATIONS MANUAL, published by the ARRL, “As time progressed, the need for and value of organization became evident, resulting in the establishment of organized trunk lines and net systems; later the Amateur Radio Emergency Service (ARES) and the National Traffic System (NTS) were formed to complete the organization.”
 
 Today, “The Amateur Radio Emergency Service (ARES) consists of licensed amateurs who have voluntarily registered their qualifications and equipment for communications duty in the public service when disaster strikes. Every licensed amateur, regardless of membership in ARRL or any other local or national organization, is eligible for membership in the ARES. The only qualification, other than the possession of an Amateur Radio license, is a sincere desire to serve. Because ARES is an amateur service, only amateurs are eligible for membership. The possession of emergency-powered equipment is desirable, but is not a requirement for membership”.
 
-The Rowan County Amateur Radio Emergency Services group is based out of Salisbury North Carolina USA.<!-- with a membership of around 15 people.--> In conjunction with the Rowan Cares group, the [Rowan Amateur Radio Society](https://rowanars.net) group has elected to assist us in any of our endeavors, which broadens the knowledge base considerably and brings centuries worth of expertise and experience to our group.
+The Rowan County Amateur Radio Emergency Services group is based out of Salisbury North Carolina USA.<!-- with a membership of around 15 people.--> In conjunction with the Rowan Cares group, the [Rowan Amateur Radio Society](https://rowanars.net) group has elected to assist us in any of our endeavors, which broadens the knowledge base considerably and brings centuries worth of expertise and experience to our group. This ARES group has been serving for many decades!
 
 We greatly appreciate ALL contributions our members make to the organization for without them, we would not exist!
 
@@ -37,4 +38,9 @@ While ARES is officially an Amateur Radio service, we are willing to partner som
 -->
 
 <!-- For more information about joining Rowan County ARES contact the EC. -->
-For more information about joining Rowan County ARES contact the [Rowan Amateur Radio Society](https://rowanars.net).
+For more information about joining Rowan County ARES [contact](https://www.rowanars.net/pages/contact/) the [Rowan Amateur Radio Society](https://rowanars.net).
+
+# NC AUXCOMM
+[According to the NCARRL](https://www.ncarrl.org/ares/), [Rowan County](https://www.rowancountync.gov/) is falls under *EM Area 11*, part of the *Western Branch*, which EM Area 11 also includes these *adjacent* counties: [Cabarrus](https://www.cabarruscounty.us/Home), [Stanly](https://www.stanlycountync.gov/), and [Iredell](https://www.iredellcountync.gov/).  
+
+Please note that, while adjacent, [Davie County](https://www.daviecountync.gov/) is part of *EM Area 9* and [Davidson County](https://www.co.davidson.nc.us/) is part of *EM Area 10*.
