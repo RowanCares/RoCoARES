@@ -11,6 +11,8 @@ draft: false
 **Obtain all the training you can get *before* the emergency!**
 
 This training is RECOMMENDED minimum emergency communications training for any operator!
+[According to the NCARRL](https://www.ncarrl.org/ares/),
+> "Groups that do not embrace the ICS training will not likely be activated during a declared disaster.  Local ARES® volunteers without ICS training are typically limited to non-emergency roles."
 
 ### Level 1 Amateur Radio Emergency Communications  
 **EC-001**
@@ -28,15 +30,17 @@ This training is RECOMMENDED minimum emergency communications training for any o
 - [http://training.fema.gov/EMIWeb/IS/](http://training.fema.gov/EMIWeb/IS/)
 - [http://training.fema.gov/EMIWeb/IS/crslist.asp](http://training.fema.gov/EMIWeb/IS/crslist.asp)
 
-Recommended for all, **REQUIRED** for anyone wishing to serve in an EOC by NC Law  
+Recommended for all, **REQUIRED** for *anyone* wishing to serve in an EOC by NC Law  
 (courses 100, 200, 700, 800):
 
-- **IS-100** Intro to the Incident Command System
-- **IS-200** ICS for Single Resources and Initial Action Incidents
-- **IS-317** Introduction to Community Emergency Response Teams
-- **IS-700** National Incident Management System (NIMS) An Introduction
-- **IS-800** National Response Framework, an Introduction
+- **ICS-100** Intro to the Incident Command System
+- **ICS-200** ICS for Single Resources and Initial Action Incidents
+- **ICS-317** Introduction to Community Emergency Response Teams
+- **ICS-700** National Incident Management System (NIMS) An Introduction
+- **ICS-800** National Response Framework, an Introduction
 - **IS-802** Emergency Support Functions (ESF) #2 – Communications
+
+Further, [NC ARRL cites](https://www.ncarrl.org/ares/), "Any amateur radio operator who has completed the four ICS courses is invited to register in the NC AUXCOMM database and become a part of NC AUXCOMM."
 
 ## American Red Cross
 
