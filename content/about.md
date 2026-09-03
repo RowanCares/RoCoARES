@@ -41,6 +41,6 @@ While ARES is officially an Amateur Radio service, we are willing to partner som
 For more information about joining Rowan County ARES [contact](https://www.rowanars.net/pages/contact/) the [Rowan Amateur Radio Society](https://rowanars.net).
 
 # NC AUXCOMM
-[According to the NCARRL](https://www.ncarrl.org/ares/), [Rowan County](https://www.rowancountync.gov/) is falls under *EM Area 11*, part of the *Western Branch*, which EM Area 11 also includes these *adjacent* counties: [Cabarrus](https://www.cabarruscounty.us/Home), [Stanly](https://www.stanlycountync.gov/), and [Iredell](https://www.iredellcountync.gov/).  
+[According to the NCARRL](https://www.ncarrl.org/ares/), [Rowan County](https://www.rowancountync.gov/) falls under *EM Area 11*, part of the *Western Branch*, which EM Area 11 also includes these *adjacent* counties: [Cabarrus](https://www.cabarruscounty.us/Home), [Stanly](https://www.stanlycountync.gov/), and [Iredell](https://www.iredellcountync.gov/).  
 
 Please note that, while adjacent, [Davie County](https://www.daviecountync.gov/) is part of *EM Area 9* and [Davidson County](https://www.co.davidson.nc.us/) is part of *EM Area 10*.
