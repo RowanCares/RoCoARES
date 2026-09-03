@@ -1,7 +1,8 @@
 ---
 title: "Training"
-date: 2024-08-08
+date: 2026-09-03
 draft: false
+description: An overview of why training is important, what training is necessary, and where it is available
 ---
 
 ## Updated Information from NC ARES
@@ -48,4 +49,5 @@ Further, [NC ARRL cites](https://www.ncarrl.org/ares/), "Any amateur radio opera
 
 CPR/First Aid are highly recommended
 
-ARC Courses: [Introduction to Disaster Services](http://www2.redcross.org/flash/course01_v01/)
+<!-- ARC Courses: [Introduction to Disaster Services](http://www2.redcross.org/flash/course01_v01/) #broken link -->
+A.R.C. [Disaster Training](https://www.redcross.org/take-a-class/disaster-training?srsltid=AfmBOoof6sStJyJbLysSxwjYLk5msekqUs5fYkwyieEWzxF6N9QBpH3w)
