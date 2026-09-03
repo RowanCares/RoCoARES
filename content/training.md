@@ -33,14 +33,14 @@ This training is RECOMMENDED minimum emergency communications training for any o
 Recommended for all, **REQUIRED** for *anyone* wishing to serve in an EOC by NC Law  
 (courses 100, 200, 700, 800):
 
-- **ICS-100** Intro to the Incident Command System
-- **ICS-200** ICS for Single Resources and Initial Action Incidents
-- **ICS-317** Introduction to Community Emergency Response Teams
-- **ICS-700** National Incident Management System (NIMS) An Introduction
-- **ICS-800** National Response Framework, an Introduction
-- **IS-802** Emergency Support Functions (ESF) #2 – Communications
+- [**ICS-100**](https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-100.c&lang=) Intro to the Incident Command System
+- [**ICS-200**](https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-200.c&lang=) ICS for Single Resources and Initial Action Incidents
+- [**IS-317**](https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-317.a&lang=) Introduction to Community Emergency Response Teams
+- [**ICS-700**](https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-700.b&lang=) National Incident Management System (NIMS) An Introduction
+- [**ICS-800**](https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-800.d&lang=) National Response Framework, an Introduction
+- [**IS-802**](https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-802.a&lang=) Emergency Support Functions (ESF) #2 – Communications
 
-Further, [NC ARRL cites](https://www.ncarrl.org/ares/), "Any amateur radio operator who has completed the four ICS courses is invited to register in the NC AUXCOMM database and become a part of NC AUXCOMM."
+Further, [NC ARRL cites](https://www.ncarrl.org/ares/), "Any amateur radio operator who has completed the four ICS courses is invited to register in the [NC AUXCOMM](https://www.auxcomm.us/db/nc/) database and become a part of NC AUXCOMM."
 
 ## American Red Cross
 
