@@ -10,7 +10,8 @@ This page provides a brief listing of information about NTS, ARES and independen
 
 **Wednesday 2000 hrs local**
 
-**145.410** Neg offset **136.5** tone
+**145.410** Negative offset **136.5** tone  
+Alternate **443.250** 5 MHz offset; **136.5** Hz TSQL Tone
 
 * Tim Foster K4OIB, Net Manager
 * Dave Jackman, *Temporary* Net Control
