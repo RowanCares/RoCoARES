@@ -20,7 +20,7 @@ ARES (`Amateur Radio Emergency Service`) is designed to assist with communicatio
 
 ## Contact Information
 
-Rowan County ARES can be contacted as follows:
+Rowan County ARES can be contacted as follows:  
 [Rowan Amateur Radio Society Contact Page](https://www.rowanars.net/pages/contact/)
 
 Frequently monitoring one of the repeaters below:
